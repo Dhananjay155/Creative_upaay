@@ -1,13 +1,14 @@
-import EditIcon from "../../assets/icons/edit.svg";
-import LinkIcon from "../../assets/icons/link.svg";
-import CreateIcon from "../../assets/icons/create.svg";
-import FilterIcon from "../../assets/icons/filter.svg";
-import DateIcon from "../../assets/icons/date.svg";
-import GridIcon from "../../assets/icons/grid.svg";
-import PauseIcon from "../../assets/icons/pause.svg";
-import ShareIcon from "../../assets/icons/share.svg";
-import ArrowDownIcon from "../../assets/icons/arrowDown.svg";
-import Members from "../members/Members";
+import React from "react";
+import EditIcon from "../assets/icons/edit.png";
+import LinkIcon from "../assets/icons/link.png";
+import CreateIcon from "../assets/icons/create.png";
+import FilterIcon from "../assets/icons/filter.png";
+import DateIcon from "../assets/icons/today_date.png";
+import GridIcon from "../assets/icons/menu.png";
+import PauseIcon from "../assets/icons/pause.png";
+import ShareIcon from "../assets/icons/profile-2user.png";
+import ArrowDownIcon from "../assets/icons/arrow-down.png";
+import Members from "./member";
 
 const Header = () => {
   return (
